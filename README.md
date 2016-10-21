@@ -1,5 +1,5 @@
 # ML-meetup Presentations
-This repo consists of all the presentations from various meetups of Gurgaon chapter
+This repo consists of all the presentations from various meetups of Gurgaon chapter.
 
 ## 2nd ML-Meetup - Rishabh Mehrota
 [Rishabh](http://www.rishabhmehrotra.com/) has been working closely with leading researchers at Microsoft Research, LinkedIn, Google  & NICTA on interesting machine learning & data science projects. His current research focuses on developing task based systems and some of his recent work has been published at top conferences including NAACL, SIGIR, WWW, CIKM, RecSys and WSDM.  He delivered a talk on "Proactive Search & Digital Assistants". 
