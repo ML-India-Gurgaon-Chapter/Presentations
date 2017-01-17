@@ -7,3 +7,12 @@ This repo consists of all the presentations from various meetups of Gurgaon chap
 ## 3rd ML-Meetup - Dr. Mayank Vatsa
 [Dr. Mayank Vatsa](https://www.iiitd.edu.in/~mayank/), Associate Prof. and AR Krishnaswamy Faculty Research Fellow at IIIT-Delhi. Mayank received his M.S. and Ph.D. degrees in computer science from West Virginia University, Morgantown, WV, USA, in 2005 and 2008, respectively.
 Mayank's major interests lie in biometrics, image processing, pattern recognition and machine learning. He talked about some of the interesting projects that are being undertaken at his lab and in general about how one should try to approach any problem via machine learning.
+
+## 4th Meetup - Kaggle Dataset
+A small discussion around the basics of ML, using [Titanic dataset](https://www.kaggle.com/c/titanic) and discussion on some of the kaggle competitions.
+
+## 5th and 6th Meetups
+These meetups were around the week 1 and week 2 of [cs231 course](http://cs231n.stanford.edu/) which is around Computer Vision, offered by Stanford.  
+
+## 7th ML-Meetup - Mr. Janu Verma
+[Janu Verma](http://researcher.watson.ibm.com/researcher/view.php?person=us-jverma) is a machine learning and data visualization researcher at IBM T.J. Watson Research Center in New York. He has held research positions at Cornell University, Kansas State University, Tata Institute of Fundamental Research, Jawahar Lal Nehru Center for Advanced Scientific Research, and Indian Statistical Institute. The central concept of this talk was word2vec - distributed vector representations, which are computed using a convolutional neural network. 
