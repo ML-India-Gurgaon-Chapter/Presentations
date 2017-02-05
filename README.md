@@ -16,3 +16,6 @@ These meetups were around the week 1 and week 2 of [cs231 course](http://cs231n.
 
 ## 7th ML-Meetup - Mr. Janu Verma
 [Janu Verma](http://researcher.watson.ibm.com/researcher/view.php?person=us-jverma) is a machine learning and data visualization researcher at IBM T.J. Watson Research Center in New York. He has held research positions at Cornell University, Kansas State University, Tata Institute of Fundamental Research, Jawahar Lal Nehru Center for Advanced Scientific Research, and Indian Statistical Institute. The central concept of this talk was word2vec - distributed vector representations, which are computed using a convolutional neural network. 
+
+## 8th ML-Meetup - Ms. Chandini Jain
+Chandinin is a ex - Derivatives Trader, Optiver with 5 years of experience in finance. Worked as an Analyst with Deutsche Bank prior to joining Optiver in Chicago where we employed data science and statistical models to trade various products. In this talk, she discussed how people with ML, data and math skill and no finance domain knowledge can use the modeling techniques in their field to write successful trading strategies. 
